@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome to RummerLab! 🌊🐟
 
-<!--
-**RummerLab/RummerLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Us  
+RummerLab is dedicated to understanding how fish, particularly those on coral reefs, adapt to environmental stressors such as rising temperatures and ocean deoxygenation. Our research focuses on physiology, ecology, and evolution, with a strong emphasis on conservation and climate change resilience.
 
-Here are some ideas to get you started:
+We are based at James Cook University, Australia, and our work spans across global marine ecosystems. From the Great Barrier Reef to the Arctic, our team investigates how fish cope with environmental challenges, with a special focus on **oxygen transport, thermal tolerance, and stress physiology**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Our Research  
+🔬 **Physiology & Evolution** – Exploring how fish have evolved to thrive in diverse environments.  
+🌡️ **Climate Change Impacts** – Studying how rising temperatures and deoxygenation affect marine life.  
+🦈 **Sharks & Rays** – Understanding how elasmobranchs (like epaulette sharks) respond to changing oceans.  
+
+## Learn More  
+🌍 **[Physioshark Project](https://www.physioshark.org/)** – Investigating how juvenile sharks handle climate stress.  
+🔬 **[RummerLab](https://www.rummerlab.com/)** – Our research group, projects, and publications.  
+📢 **[Dr. Jodie Rummer](https://www.jodierummer.com/)** – Outreach, media, and advocacy for ocean conservation.  
+
+## Connect With Us  
+📧 Want to collaborate? Get in touch via our websites!  
+🐦 Follow Dr. Rummer on [Twitter](https://twitter.com/jodierummer) for the latest research updates.  
+📸 Check out our lab in action on [Instagram](https://www.instagram.com/jodierummer/)  
+
+🔬 *Advancing marine science for a sustainable future!* 🌱
