@@ -17,7 +17,7 @@ We are based at James Cook University (Townsville, Australia), and our work span
 
 ## Connect With Us  
 📧 Want to collaborate? Get in touch via our websites!  
-🐦 Follow Dr. Rummer on [Twitter](https://twitter.com/jodierummer) for the latest research updates.  
+🐦 Follow Dr. Rummer on [Bluesky](https://bsky.app/profile/physiologyfish.bsky.social) for the latest research updates.  
 📸 Check out our lab in action on [Instagram](https://www.instagram.com/jodierummer/)  
 
 🔬 *Advancing marine science for a sustainable future!* 🌱
